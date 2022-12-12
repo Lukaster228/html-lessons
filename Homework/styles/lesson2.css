@@ -1,0 +1,29 @@
+.uber-request{
+  background-color: black;
+  color: white;
+  height: 35px;
+  width: 100px;
+  cursor: pointer;
+  border-style: none;
+}
+
+.amazon-cart{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  width: 170px;
+  border-style: none;
+  height: 35px;
+  border-radius: 75px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.git-sign{
+  background-color: rgb(46, 164, 79);
+  border-style: none;
+  height: 35px;
+  width: 85px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
